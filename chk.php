@@ -138,7 +138,7 @@ if($state=="Alabama"){ $state="AL";
 
 $Websharegay = rand(0,250);
 $rp1 = array(
-  1 => 'yqilhlxt-rotate:8yl0b1rgpie3',
+  1 => 'qranmtce-rotate:ncgdsrksaj0s',
     ); 
     $rotate = $rp1[array_rand($rp1)];
 ///             ==============[Proxy Section]===============            //
